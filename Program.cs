@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TigerSoccerClub
+namespace SoccerClub
 {
     class Program
     {
